@@ -28,7 +28,7 @@ Learning Process: Sleep Data in terms of EEG → Data Preprocessing based on 30 
 <p align="center">
   <img src="Images/Random Forest.png">
 </p>
-Model Comparison
+<h1> Model Comparison </h2>
 <p align="center">
   <img src="Images/Model Comparison.png">
 </p>
