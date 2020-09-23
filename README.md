@@ -20,9 +20,10 @@ Learning Process: Sleep Data in terms of EEG → Data Preprocessing based on 30 
 <p align="center">
   <img src="Images/LSTM.png">
 </p>
-
 2)	SVM: Performance of the SVM model increased significantly by using ‘rbf’ (Radial basis function) over ‘linear’ kernel. Accuracy measure, classification report and confusion matrix were used to evaluate the model performance. An accuracy of 60% was achieved by running the model on 50 subjects. 
-
+<p align="center">
+  <img src="Images/SVM.png">
+</p>
 3)	RF: Metrics evaluation and subjects used in this was model was similar to SVM. An accuracy of 59% was achieved.
 
 Model Comparison
