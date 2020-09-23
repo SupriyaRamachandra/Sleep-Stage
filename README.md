@@ -18,7 +18,7 @@ Learning Process: Sleep Data in terms of EEG → Data Preprocessing based on 30 
 <h2> Results </h2>
 1)	LSTM: Accuracy and classification report was used to evaluate the performance of the model. The below accuracy plot shows for the model executed on 50 subjects for 30 epochs. As seen in the plot there was significant increase in the performance or accuracy of the model. For 151 subjects if we increase the number of epochs we could have achieved higher accuracy, but as the data size for each subject is large enough RAM (Random access memory) didn’t support the execution on all the subjects for more than 25epochs which achieved an accuracy of 61%
 <p align="center">
-  <img src="Images/LSTM.png" >
+  <img src="Images/LSTM.png" height="24" width="48">
 </p>
 
 2)	SVM: Performance of the SVM model increased significantly by using ‘rbf’ (Radial basis function) over ‘linear’ kernel. Accuracy measure, classification report and confusion matrix were used to evaluate the model performance. An accuracy of 60% was achieved by running the model on 50 subjects. 
