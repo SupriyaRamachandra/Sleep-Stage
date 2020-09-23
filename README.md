@@ -1,4 +1,4 @@
-<h1> Sleep-StageClassification
+<h1> Sleep-Stage Classification
 <h2>Problem Statement</h2>
 
 In this project, we have implemented different machine learning and deep learning algorithms to automatically classify sleep stages i.e, to Wake, N1, N2, N3 and REM on windows of 30 seconds of raw data and compared the results. The dataset source and its characteristics are described below:
