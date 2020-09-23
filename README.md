@@ -25,5 +25,10 @@ Learning Process: Sleep Data in terms of EEG → Data Preprocessing based on 30 
   <img src="Images/SVM.png">
 </p>
 3)	RF: Metrics evaluation and subjects used in this was model was similar to SVM. An accuracy of 59% was achieved.
-
+<p align="center">
+  <img src="Images/Random Forest.png">
+</p>
 Model Comparison
+<p align="center">
+  <img src="Images/Model Comparison.png">
+</p>
